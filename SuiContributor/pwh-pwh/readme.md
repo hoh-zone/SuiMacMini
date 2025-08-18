@@ -21,3 +21,11 @@
 * [sui-go-dapp](https://github.com/pwh-pwh/sui-go-dapp)
 * [add NewSignerWithSecretKey function for ed25519 private key support ](https://github.com/block-vision/sui-go-sdk/pull/63)
 * [fix: duplicate error check and unmarshal](https://github.com/block-vision/sui-go-sdk/pull/66)
+
+## 八月
+### 代码贡献
+* [fix balance_manager_tests args](https://github.com/hoh-zone/sui-deepbookv3/pull/9)
+* [Fix/custom owner function](https://github.com/hoh-zone/sui-deepbookv3/pull/10)
+* [update pool](https://github.com/hoh-zone/sui-deepbookv3/pull/11)
+* [add adjust_tick_size and adjust_min_lot_size support](https://github.com/hoh-zone/sui-deepbookv3/pull/12)
+* [rename Event field to Type in MoveEventModule](https://github.com/block-vision/sui-go-sdk/pull/69)
