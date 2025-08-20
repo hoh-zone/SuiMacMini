@@ -1,5 +1,8 @@
 # 贡献跟踪表
 
+### 2025年8月贡献
+- 代码 PR：[Walrus fix: remove unwrap usage in production code](https://github.com/MystenLabs/walrus/pull/2427)
+
 ### 2025年7月贡献
 - 代码 PR：[优化 suiup 工具：解决版本管理与用户体验问题](https://github.com/MystenLabs/suiup/pull/66)
 - 代码 PR：[支持 Switch 功能](https://github.com/MystenLabs/suiup/pull/68)
