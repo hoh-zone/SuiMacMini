@@ -1,5 +1,18 @@
 # 贡献跟踪表
 
+## 2025.08
+
+### MystenLabs/sui
+
+- [Remove unnecessary prompts](https://github.com/MystenLabs/sui/pull/22469)
+- [Make annotations more accurate](https://github.com/MystenLabs/sui/pull/22547)
+- [Update to new syntax](https://github.com/MystenLabs/sui/pull/22741)
+- [Modify comment and use macro](https://github.com/MystenLabs/sui/pull/22765)
+
+### ProbiusOfficial/Hello-CTF
+
+- [move 0x01 0x02 0x03 0x04](https://github.com/ProbiusOfficial/Hello-CTF/pull/149)
+
 ## 2025.07
 
 ### MystenLabs/move-book
