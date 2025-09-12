@@ -34,3 +34,4 @@
 ## 九月
 ### 代码贡献
 * [Fix alias length validation logic and typo in error message](https://github.com/FrankC01/pysui/pull/343)
+* [fix: improve exception handling in get_gas_from_faucet](https://github.com/FrankC01/pysui/pull/344)
