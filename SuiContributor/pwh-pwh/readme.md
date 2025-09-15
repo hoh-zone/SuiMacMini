@@ -35,3 +35,4 @@
 ### 代码贡献
 * [Fix alias length validation logic and typo in error message](https://github.com/FrankC01/pysui/pull/343)
 * [fix: improve exception handling in get_gas_from_faucet](https://github.com/FrankC01/pysui/pull/344)
+* [feat: add Sui object reading functionality, including methods for retrieving shared object references and Sui object references](https://github.com/block-vision/sui-go-sdk/pull/73)
