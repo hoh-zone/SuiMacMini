@@ -38,3 +38,8 @@
 * [feat: add Sui object reading functionality, including methods for retrieving shared object references and Sui object references](https://github.com/block-vision/sui-go-sdk/pull/73)
 * [feat: Implement get blob metadata](https://github.com/pwh-pwh/walrus_rs/commit/76d011ccd8b5fb25e5c99967601d8801c9c12bee)
 * [feat: Enhance documentation and error handling in Walrus API client and models](https://github.com/pwh-pwh/walrus_rs/commit/f127e2bff066b4b37a7731cc72b5657c895bed56)
+
+
+## 十月
+### 代码贡献
+* [Fix BCS encoding for [N]byte arrays to remove unintended length prefix](https://github.com/block-vision/sui-go-sdk/pull/78)
