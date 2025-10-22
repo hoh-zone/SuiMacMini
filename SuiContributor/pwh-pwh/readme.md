@@ -43,3 +43,4 @@
 ## 十月
 ### 代码贡献
 * [Fix BCS encoding for [N]byte arrays to remove unintended length prefix](https://github.com/block-vision/sui-go-sdk/pull/78)
+* [refactor JSON file handling with utility functions](https://github.com/MystenLabs/suiup/pull/104)
