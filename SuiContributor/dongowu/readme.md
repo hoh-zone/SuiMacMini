@@ -6,3 +6,6 @@
 
 2025年9月贡献表
 [chore: remove redundant words in comments and documentation](https://github.com/MystenLabs/sui/pull/23612)
+
+2025年12月
+[Perf: reuse fullnode HttpClient and remove redundant HeaderMap clones](https://github.com/MystenLabs/sui/pull/24678)
