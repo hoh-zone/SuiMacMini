@@ -9,3 +9,6 @@
 
 2025年12月
 [Perf: reuse fullnode HttpClient and remove redundant HeaderMap clones](https://github.com/MystenLabs/sui/pull/24678)
+
+2026年1月
+[fix typo Permenent' -> 'Permanent](https://github.com/MystenLabs/sui/pull/24728)
