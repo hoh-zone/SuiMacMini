@@ -30,3 +30,17 @@
 * [add adjust_tick_size and adjust_min_lot_size support](https://github.com/hoh-zone/sui-deepbookv3/pull/12)
 * [rename Event field to Type in MoveEventModule](https://github.com/block-vision/sui-go-sdk/pull/69)
 * [walrus_rs](https://github.com/pwh-pwh/walrus_rs)
+
+## 九月
+### 代码贡献
+* [Fix alias length validation logic and typo in error message](https://github.com/FrankC01/pysui/pull/343)
+* [fix: improve exception handling in get_gas_from_faucet](https://github.com/FrankC01/pysui/pull/344)
+* [feat: add Sui object reading functionality, including methods for retrieving shared object references and Sui object references](https://github.com/block-vision/sui-go-sdk/pull/73)
+* [feat: Implement get blob metadata](https://github.com/pwh-pwh/walrus_rs/commit/76d011ccd8b5fb25e5c99967601d8801c9c12bee)
+* [feat: Enhance documentation and error handling in Walrus API client and models](https://github.com/pwh-pwh/walrus_rs/commit/f127e2bff066b4b37a7731cc72b5657c895bed56)
+
+
+## 十月
+### 代码贡献
+* [Fix BCS encoding for [N]byte arrays to remove unintended length prefix](https://github.com/block-vision/sui-go-sdk/pull/78)
+* [refactor JSON file handling with utility functions](https://github.com/MystenLabs/suiup/pull/104)
