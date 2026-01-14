@@ -11,4 +11,6 @@
 [Perf: reuse fullnode HttpClient and remove redundant HeaderMap clones](https://github.com/MystenLabs/sui/pull/24678)
 
 2026年1月
-[fix typo Permenent' -> 'Permanent](https://github.com/MystenLabs/sui/pull/24728)
+- [fix typo Permenent' -> 'Permanent](https://github.com/MystenLabs/sui/pull/24728)
+- [Perf:reuse SuiClient across requests](https://github.com/MystenLabs/deepbookv3/pull/764)
+- [graphql: expose FundsWithdrawal PTB inputs](https://github.com/MystenLabs/sui/pull/24876)
